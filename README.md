@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Dev Biswas</h1>
 <h3 align="center">A passionate software developer with a love for exploring new technologies and building innovative solutions</h3>
 ## 🌐 Socials:
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/devbiswas01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dev__biswas/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/DevBiswass) 
 
 # 💻 Tech Stack:
